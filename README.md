@@ -4,7 +4,7 @@ Materiale del corso, 2o semestre a.a. 2022/2023, Dip. di Informatica
 
 ### News
 
-- **11/02/2023:** Sito del corso online.
+- **11/02/2023:** Sito del corso online. **Il corso inizia martedi 28 febbraio.**
 
 ### Logistica
 
