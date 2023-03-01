@@ -28,4 +28,5 @@ Link ai libri di testo:
 
 **Data** | **Argomento** | **Letture** | **Codice & Dati**
 ------------ | ------------- | ------------ | ------------
-Mar 28 Feb | Introduzione | [slides upcoming] |
+Mar 28 Feb | Introduzione | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/01_intro/01-intro.pdf)  |
+Mer 01 Mar | Preliminari di algebra lineare | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/02_linalg/02-linalg.pdf) ; [matrix notes](https://github.com/erodola/NumMeth-s2-2023/raw/main/02_linalg/02b-matrix.pdf) |
