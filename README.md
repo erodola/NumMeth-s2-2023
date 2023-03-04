@@ -30,3 +30,4 @@ Link ai libri di testo:
 ------------ | ------------- | ------------ | ------------
 Mar 28 Feb | Introduzione | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/01_intro/01-intro.pdf)  |
 Mer 01 Mar | Preliminari di algebra lineare | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/02_linalg/02-linalg.pdf) ; [matrix notes](https://github.com/erodola/NumMeth-s2-2023/raw/main/02_linalg/02b-matrix.pdf) |
+Mar 07 Mar | Regressione polinomiale | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/03_regression/03-regression.pdf) |
