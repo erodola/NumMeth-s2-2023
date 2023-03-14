@@ -4,6 +4,7 @@ Materiale del corso, 2o semestre a.a. 2022/2023, Dip. di Informatica
 
 ### News
 
+- **14/03/2023:** Link alla lezione di oggi: [https://meet.google.com/osp-ywfq-mkw](https://meet.google.com/osp-ywfq-mkw)
 - **11/02/2023:** Sito del corso online. **Il corso inizia martedi 28 febbraio.**
 
 ### Logistica
