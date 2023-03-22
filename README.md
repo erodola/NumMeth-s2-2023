@@ -33,7 +33,8 @@ Mar 28 Feb | Introduzione | [slides](https://github.com/erodola/NumMeth-s2-2023/
 Mer 01 Mar | Preliminari di algebra lineare | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/02_linalg/02-linalg.pdf) ; [matrix notes](https://github.com/erodola/NumMeth-s2-2023/raw/main/02_linalg/02b-matrix.pdf) |
 Mar 07 Mar | Regressione polinomiale | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/03_regression/03-regression.pdf) |
 Mer 08 Mar | Manipolazione di vettori e matrici | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex1/ex1.ipynb)
-Mar 14 Mar | Regolarizzazione, smoothing e sparsità | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/04_regularization/04-regularization.pdf) ; [gradient notes](https://github.com/erodola/NumMeth-s2-2023/raw/main/04_regularization/03b-gradient.pdf) |
+Mar 14 Mar | Regolarizzazione, smoothing e sparsità - Parte 1 | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/04_regularization/04-regularization.pdf) ; [gradient notes](https://github.com/erodola/NumMeth-s2-2023/raw/main/04_regularization/03b-gradient.pdf) |
 Mer 15 Mar | Regressione lineare |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex2/ex2.ipynb)
-Mar 21 Mar | Ortogonalità e decomposizione QR | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/05_orthogonal/05-orthogonal.pdf) |
+Mar 21 Mar | Regolarizzazione, smoothing e sparsità - Parte 2 | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/04_regularization/04-regularization.pdf) |
 Mer 22 Mar | Sparsità e regolarità |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex3/ex3.ipynb) |
+Mar 28 Mar | Ortogonalità e decomposizione QR | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/05_orthogonal/05-orthogonal.pdf) |
