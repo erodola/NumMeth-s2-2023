@@ -4,6 +4,7 @@ Materiale del corso, 2o semestre a.a. 2022/2023, Dip. di Informatica
 
 ### News
 
+- **27/03/2023:** Le lezioni di domani martedi 27 e di mercoledi 28 marzo si terranno **da remoto** per malattia del docente. E' sufficiente collegarsi al link [https://meet.google.com/osp-ywfq-mkw](https://meet.google.com/osp-ywfq-mkw) in orario di lezione.
 - **14/03/2023:** Link alla lezione di oggi: [https://meet.google.com/osp-ywfq-mkw](https://meet.google.com/osp-ywfq-mkw)
 - **11/02/2023:** Sito del corso online. **Il corso inizia martedi 28 febbraio.**
 
@@ -11,7 +12,7 @@ Materiale del corso, 2o semestre a.a. 2022/2023, Dip. di Informatica
 
 **Docente:** Prof. Emanuele Rodolà
 
-**Assistenti:** Dr. Emilian Postolache
+**Assistenti:** Dr. Emilian Postolache, Dr. Daniele Baieri
 
 **Quando:** Martedi 17:00--19:00 e Mercoledi 10:00--13:00
 
@@ -38,3 +39,4 @@ Mer 15 Mar | Regressione lineare |  | [notebook](https://colab.research.google.c
 Mar 21 Mar | Regolarizzazione, smoothing e sparsità - Parte 2 | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/04_regularization/04-regularization.pdf) |
 Mer 22 Mar | Sparsità e regolarità |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex3/ex3.ipynb) |
 Mar 28 Mar | Ortogonalità e decomposizione QR | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/05_orthogonal/05-orthogonal.pdf) |
+Mer 29 Mar | Ortogonalità e proiezioni |  | [notebook]*upcoming* |
