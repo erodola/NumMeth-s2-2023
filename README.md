@@ -4,7 +4,7 @@ Materiale del corso, 2o semestre a.a. 2022/2023, Dip. di Informatica
 
 ### News
 
-- **27/03/2023:** Le lezioni di domani martedi 27 e di mercoledi 28 marzo si terranno **da remoto** per malattia del docente. E' sufficiente collegarsi al link [https://meet.google.com/osp-ywfq-mkw](https://meet.google.com/osp-ywfq-mkw) in orario di lezione.
+- **27/03/2023:** Le lezioni di domani martedi 28 e di mercoledi 29 marzo si terranno **da remoto** per malattia del docente. E' sufficiente collegarsi al link [https://meet.google.com/osp-ywfq-mkw](https://meet.google.com/osp-ywfq-mkw) in orario di lezione.
 - **14/03/2023:** Link alla lezione di oggi: [https://meet.google.com/osp-ywfq-mkw](https://meet.google.com/osp-ywfq-mkw)
 - **11/02/2023:** Sito del corso online. **Il corso inizia martedi 28 febbraio.**
 
