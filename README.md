@@ -40,3 +40,4 @@ Mar 21 Mar | Regolarizzazione, smoothing e sparsità - Parte 2 | [slides](https:
 Mer 22 Mar | Sparsità e regolarità |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex3/ex3.ipynb) |
 Mar 28 Mar | Ortogonalità e decomposizione QR | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/05_orthogonal/05-orthogonal.pdf) |
 Mer 29 Mar | Ortogonalità e proiezioni |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex4/ex4.ipynb) |
+Mar 04 Apr | Decomposizione spettrale | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/06_spectral/06-spectral.pdf) |
