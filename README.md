@@ -45,4 +45,4 @@ Mar 04 Apr | Decomposizione spettrale | [slides](https://github.com/erodola/NumM
 Mer 05 Apr | Decomposizione spettrale |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex5/ex5.ipynb)
 Mar 11 Apr | **Vacanze pasquali** |  |
 Mer 12 Apr | SVD | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/07_svd/07-svd.pdf) | 
-Mar 18 Apr | PCA | *upcoming* | 
+Mar 18 Apr | PCA | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/07_svd/07-svd.pdf) | 
