@@ -4,6 +4,7 @@ Materiale del corso, 2o semestre a.a. 2022/2023, Dip. di Informatica
 
 ### News
 
+- **19/04/2023:** Il giorno **25 Aprile non si terrà lezione** in accordo con il calendario accademico, per via del giorno della Liberazione. Il giorno **26 Aprile** si terrà il test di autovalutazione, ulteriori dettagli verranno pubblicati presto.
 - **03/04/2023:** Il giorno **11 Aprile non si terrà lezione** in accordo con il calendario accademico, per via delle vacanze pasquali.
 - **27/03/2023:** Le lezioni di domani martedi 28 e di mercoledi 29 marzo si terranno **da remoto** per malattia del docente. E' sufficiente collegarsi al link [https://meet.google.com/osp-ywfq-mkw](https://meet.google.com/osp-ywfq-mkw) in orario di lezione.
 - **14/03/2023:** Link alla lezione di oggi: [https://meet.google.com/osp-ywfq-mkw](https://meet.google.com/osp-ywfq-mkw)
@@ -47,4 +48,5 @@ Mar 11 Apr | **Vacanze pasquali** |  |
 Mer 12 Apr | SVD | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/07_svd/07-svd.pdf) | 
 Mar 18 Apr | PCA | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/07_svd/07-svd.pdf) |
 Mer 19 Apr | Fattorizzazione SVD e approssimazione low-rank |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex6/ex6.ipynb) |
-
+Mar 25 Apr | **Giorno della Liberazione** |  |
+Mer 26 Apr | **Test di auto-valutazione** | _Presto altri dettagli_ |
