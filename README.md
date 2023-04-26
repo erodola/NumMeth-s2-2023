@@ -4,6 +4,7 @@ Materiale del corso, 2o semestre a.a. 2022/2023, Dip. di Informatica
 
 ### News
 
+- **26/04/2023:** Abbiamo pubblicato il **test di autovalutazione**. La consegna può essere effettuata via email (rodola@di.uniroma1.it) entro la giornata di oggi.
 - **19/04/2023:** Il giorno **25 Aprile non si terrà lezione** in accordo con il calendario accademico, per via del giorno della Liberazione. Il giorno **26 Aprile** si terrà il test di autovalutazione, ulteriori dettagli verranno pubblicati presto.
 - **03/04/2023:** Il giorno **11 Aprile non si terrà lezione** in accordo con il calendario accademico, per via delle vacanze pasquali.
 - **27/03/2023:** Le lezioni di domani martedi 28 e di mercoledi 29 marzo si terranno **da remoto** per malattia del docente. E' sufficiente collegarsi al link [https://meet.google.com/osp-ywfq-mkw](https://meet.google.com/osp-ywfq-mkw) in orario di lezione.
@@ -49,4 +50,4 @@ Mer 12 Apr | SVD | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/
 Mar 18 Apr | PCA | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/07_svd/07-svd.pdf) |
 Mer 19 Apr | Fattorizzazione SVD e approssimazione low-rank |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex6/ex6.ipynb) |
 Mar 25 Apr | **Giorno della Liberazione** |  |
-Mer 26 Apr | **Test di auto-valutazione** | _Presto altri dettagli_ |
+Mer 26 Apr | **Test di auto-valutazione** | [scarica](https://github.com/erodola/NumMeth-s2-2023/raw/main/NumMeth_Apr26_Midterm.pdf) |
