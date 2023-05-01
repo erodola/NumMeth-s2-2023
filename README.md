@@ -52,3 +52,4 @@ Mer 19 Apr | Fattorizzazione SVD e approssimazione low-rank |  | [notebook](http
 Mar 25 Apr | **Giorno della Liberazione** |  |
 Mer 26 Apr | **Test di auto-valutazione** | [scarica](https://github.com/erodola/NumMeth-s2-2023/raw/main/NumMeth_Apr26_Midterm.pdf) |
 Mar 02 Mag | Discesa del gradiente | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/08_gradient/08-grad.pdf) |
+Mer 03 Mag | Discesa del gradiente |  |  _notebook upcoming_
