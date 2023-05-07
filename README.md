@@ -4,6 +4,7 @@ Materiale del corso, 2o semestre a.a. 2022/2023, Dip. di Informatica
 
 ### News
 
+- **07/05/2022:** Si invitano tutti gli studenti a compilare il questionario OPIS (istruzioni [qui](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2022_2023.pdf)). Il codice per il corso è 7CHL47Y7.
 - **07/05/2023:** Pubblicati i voti del test di autovalutazione.
 - **26/04/2023:** Abbiamo pubblicato il **test di autovalutazione**. La consegna può essere effettuata via email (rodola@di.uniroma1.it) entro la giornata di oggi.
 - **19/04/2023:** Il giorno **25 Aprile non si terrà lezione** in accordo con il calendario accademico, per via del giorno della Liberazione. Il giorno **26 Aprile** si terrà il test di autovalutazione, ulteriori dettagli verranno pubblicati presto.
