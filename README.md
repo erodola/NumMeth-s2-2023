@@ -55,3 +55,4 @@ Mar 25 Apr | **Giorno della Liberazione** |  |
 Mer 26 Apr | **Test di auto-valutazione** | [scarica](https://github.com/erodola/NumMeth-s2-2023/raw/main/NumMeth_Apr26_Midterm.pdf) ; [voti](https://github.com/erodola/NumMeth-s2-2023/raw/main/NumMeth_Apr26_Midterm-grades.pdf) |
 Mar 02 Mag | Discesa del gradiente | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/08_gradient/08-grad.pdf) |
 Mer 03 Mag | Discesa del gradiente |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex7/ex7.ipynb), [soluzione](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex7/ex7_full.ipynb)
+Mar 09 Mag | Deep learning | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/09_deep/09-deep.pdf) |
