@@ -58,4 +58,4 @@ Mer 03 Mag | Discesa del gradiente |  | [notebook](https://colab.research.google
 Mar 09 Mag | Deep learning | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/09_deep/09-deep.pdf) |
 Mer 10 Mag | Procrustes, ICP e denoising |  |  [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex6/ex6.ipynb) ; [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex7/ex7.ipynb)
 Mar 16 Mag | Journal Club - Mappe funzionali | [paper](https://github.com/erodola/NumMeth-s2-2023/raw/main/fmaps.pdf) |
-Mer 17 Mag | Laplaciano, mappe funzionali e graph matching | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex8/ex8.ipynb) ; [soluzione](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex8/ex8_full.ipynb)
+Mer 17 Mag | Laplaciano, mappe funzionali e graph matching | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex8/ex_8.ipynb) ; [soluzione](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex8/ex_8_full.ipynb)
