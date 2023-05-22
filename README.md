@@ -59,7 +59,7 @@ Mar 09 Mag | Deep learning | [slides](https://github.com/erodola/NumMeth-s2-2023
 Mer 10 Mag | Procrustes, ICP e denoising |  |  [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex6/ex6.ipynb) ; [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex7/ex7.ipynb)
 Mar 16 Mag | Journal Club - Mappe funzionali | [paper](https://github.com/erodola/NumMeth-s2-2023/raw/main/fmaps.pdf) |
 Mer 17 Mag | Laplaciano, mappe funzionali e graph matching | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex8/ex_8.ipynb) ; [soluzione](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex8/ex_8_full.ipynb)
-Mar 23 Mag | Seminario - Geometria spettrale inversa | _slides upcoming_ |
+Mar 23 Mag | Seminario - Geometria spettrale inversa | [slides](https://drive.google.com/file/d/14bPP84Ota_4ErPeAt2cu2tG9EBZRE3aI/view?usp=sharing) |
 Mer 24 Mag | JAX | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex9/ex9.ipynb)
 
 **End**
