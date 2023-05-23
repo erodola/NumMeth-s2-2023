@@ -50,7 +50,7 @@ Mer 05 Apr | Decomposizione spettrale |  | [notebook](https://colab.research.goo
 Mar 11 Apr | **Vacanze pasquali** |  |
 Mer 12 Apr | SVD | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/07_svd/07-svd.pdf) | 
 Mar 18 Apr | PCA | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/07_svd/07-svd.pdf) |
-Mer 19 Apr | Fattorizzazione SVD e approssimazione low-rank |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex6/ex6.ipynb) |
+Mer 19 Apr | Fattorizzazione SVD e approssimazione low-rank |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2023/blob/main/esercizi/ex6/ex6.ipynb) ; [soluzione](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex6/ex6_full.ipynb) |
 Mar 25 Apr | **Giorno della Liberazione** |  |
 Mer 26 Apr | **Test di auto-valutazione** | [scarica](https://github.com/erodola/NumMeth-s2-2023/raw/main/NumMeth_Apr26_Midterm.pdf) ; [voti](https://github.com/erodola/NumMeth-s2-2023/raw/main/NumMeth_Apr26_Midterm-grades.pdf) |
 Mar 02 Mag | Discesa del gradiente | [slides](https://github.com/erodola/NumMeth-s2-2023/raw/main/08_gradient/08-grad.pdf) |
